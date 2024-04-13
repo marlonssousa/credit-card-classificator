@@ -1,5 +1,7 @@
-![](assets/example.png)
+
 # Classificador de Aprovação de Cartão de Crédito
+
+![](assets/example.png)
 
 Este é um projeto de classificação de dados desenvolvido para prever se uma solicitação de cartão de crédito será aprovada ou não com base em diferentes características dos candidatos.
 
